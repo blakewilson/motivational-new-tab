@@ -1,0 +1,27 @@
+{
+  "name": "motivational-new-tab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newtab.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.5",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/preset-env": "^7.1.5",
+    "babel-eslint": "^10.0.1",
+    "babel-loader": "^8.0.4",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2",
+    "webpack": "^4.25.1"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
