@@ -4,7 +4,9 @@ A Chrome extension to give you a bit of motivation, with quotes displayed on you
 
 ## Installing the Extension
 
-You can install the extension [here](https://chrome.google.com/webstore/detail/motivational-new-tab/ffedgmjdflfdpolbikjebijpjpdcfakp).
+**Unless you're a developer, please do not install the plugin using this repo. This repo is used for development purposes.**
+
+As a user, you can install it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/motivational-new-tab/ffedgmjdflfdpolbikjebijpjpdcfakp).
 
 ## Contributing
 
